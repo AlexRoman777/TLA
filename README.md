@@ -7,6 +7,7 @@ A list of acronyms and abbreviations used in IT. Cybersecurity & Information Tec
 ---
 
 ## A
+
 - **ACL**: *Access Control Lists* - ACLs define who gets access to what resources in computing.
 - **AES**: *Advanced Encryption Standard* - A symmetric encryption algorithm used to secure sensitive data.
 - **API**: *Application Programming Interface* - A set of rules and protocols that allows different software applications to communicate with each other.
@@ -94,6 +95,7 @@ A list of acronyms and abbreviations used in IT. Cybersecurity & Information Tec
 - **IPS**: *Intrusion Prevention System* - A security system that monitors and analyzes network traffic to detect signs of intrusion and prevent malicious activity.
 - **IPsec**: *Internet Protocol Security* - A protocol suite for securing Internet Protocol (IP) communications by authenticating and encrypting each IP packet of a communication session.
 - **IaC**: *Infrastructure as Code* - Automates the provisioning and management of computing resources through code.
+
 ---
 
 ## J
