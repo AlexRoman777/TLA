@@ -1,4 +1,4 @@
-# HArdware
+# Hardware
 
 ---
 
