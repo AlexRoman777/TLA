@@ -12,7 +12,7 @@ A list of acronyms and abbreviations used in IT. Cybersecurity & Information Tec
 
 [**Windows**](TLA/windows.md)
 
-[**Linus**](TLA/linux.md)
+[**Linux**](TLA/linux.md)
 
 [**Networking**](TLA/networking.md)
 
