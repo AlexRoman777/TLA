@@ -8,16 +8,12 @@ A list of acronyms and abbreviations used in IT. Cybersecurity & Information Tec
 
 [**Cybersecurity**](TLA/cybersecurity.md)
 
-[**Information Technology**](TLA/it.md)
-
-[**Windows**](TLA/windows.md)
+[**Windows Server**](TLA/windows.md)
 
 [**Linux**](TLA/linux.md)
 
-[**Networking**](TLA/networking.md)
+[**DevOps**](TLA/devops.md)
 
-[**Programming**](TLA/programming.md)
+[**SRE**](TLA/sre.md)
 
-[**Hardware**](TLA/hardware.md)
-
-[**Miscellaneous**](TLA/misc.md)
+---
