@@ -1,39 +1,39 @@
-# Cybersecurity
+# Acronyms for Cybersecurity
 
 Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-- [Cybersecurity](#cybersecurity)
-  - [A (ACL, AES, API, ARP, AV)](#a-acl-aes-api-arp-av)
-  - [B (BCP, BYOD)](#b-bcp-byod)
-  - [C (C2, C2C, CA, CISO, CSRF, CSIRT, CTF, CVE, CVSS)](#c-c2-c2c-ca-ciso-csrf-csirt-ctf-cve-cvss)
-  - [D (DDoS, DMZ, DNS, DoS, DLP, DPI)](#d-ddos-dmz-dns-dos-dlp-dpi)
-  - [E (EDR, EULA)](#e-edr-eula)
-  - [F (FDE, FQDN, FUD)](#f-fde-fqdn-fud)
-  - [G (GDPR, GPO, GRC, GUI, GPG, GPGPU, GPU)](#g-gdpr-gpo-grc-gui-gpg-gpgpu-gpu)
-  - [H (HIDS, HIPS, HSM, HTTP, HTTPS, HSTS, HTML)](#h-hids-hips-hsm-http-https-hsts-html)
-  - [I (IaaS, IDS, IPS, IPsec, IaC)](#i-iaas-ids-ips-ipsec-iac)
-  - [J (JIT, JRE, JVM, JSON, JWT, JTAG, JSP)](#j-jit-jre-jvm-json-jwt-jtag-jsp)
-  - [K (KDC, KVM)](#k-kdc-kvm)
-  - [L (LDAP, LFI, LKM, LPE, LUKS, LVM, LXC, LZMA)](#l-ldap-lfi-lkm-lpe-luks-lvm-lxc-lzma)
-  - [M (MAC)](#m-mac)
-  - [N (NAC, NAT, NIDS, NIPS, NIST, NTP, NTLM)](#n-nac-nat-nids-nips-nist-ntp-ntlm)
-  - [O (OAUTH, OAUTH2, OCSP, OOB, OS, OTP, OWASP, OXML)](#o-oauth-oauth2-ocsp-oob-os-otp-owasp-oxml)
-  - [P (PAM, PAP, PAT, PBE, PGP, PHP, PII, PKI, POP, PPTP, PSK, PTP, PUA, PUP, PWN, PXE)](#p-pam-pap-pat-pbe-pgp-php-pii-pki-pop-pptp-psk-ptp-pua-pup-pwn-pxe)
-  - [R (RADIUS, RAID, RAT, RDP, RFI, RFID, RPO, RSA, RTO, RTOS, RTP, RTSP)](#r-radius-raid-rat-rdp-rfi-rfid-rpo-rsa-rto-rtos-rtp-rtsp)
-  - [S (S/MIME, SaaS, SAN, SCADA, SDLC, SDN, SED, SELinux, SIEM, SIM, SIP, SLA, SSO, SSL, SSH, SSID)](#s-smime-saas-san-scada-sdlc-sdn-sed-selinux-siem-sim-sip-sla-sso-ssl-ssh-ssid)
-  - [T (TACACS, TCP, TCP/IP, TFTP, TLS, TPM, TTP, TTY, TTS, TTL)](#t-tacacs-tcp-tcpip-tftp-tls-tpm-ttp-tty-tts-ttl)
-  - [U (UAC, UDP, UEFI, UML, UNC, UPS, URI, URL, USB, UTF, USB OTG, UX, UTM, UUID)](#u-uac-udp-uefi-uml-unc-ups-uri-url-usb-utf-usb-otg-ux-utm-uuid)
-  - [V (VDI, VDSL, VNC, VoIP, VPN, VTC, VTP, VTY)](#v-vdi-vdsl-vnc-voip-vpn-vtc-vtp-vty)
-  - [W (WAF, WAP, WEP, WIDS, WIPS, WORM, WPA, WPS, WPA2, WPA3)](#w-waf-wap-wep-wids-wips-worm-wpa-wps-wpa2-wpa3)
-  - [X (XaaS, XDR, XML, XSS, XSRF)](#x-xaas-xdr-xml-xss-xsrf)
-  - [Y (Y2K, YARA, YUM, YUMI, YUV)](#y-y2k-yara-yum-yumi-yuv)
-  - [Z (ZFS, ZIF, ZTNA)](#z-zfs-zif-ztna)
+- [Acronyms for Cybersecurity](#acronyms-for-cybersecurity)
+  - [A](#a)
+  - [B](#b)
+  - [C](#c)
+  - [D](#d)
+  - [E](#e)
+  - [F](#f)
+  - [G](#g)
+  - [H](#h)
+  - [I](#i)
+  - [J](#j)
+  - [K](#k)
+  - [L](#l)
+  - [M](#m)
+  - [N](#n)
+  - [O](#o)
+  - [P](#p)
+  - [R](#r)
+  - [S](#s)
+  - [T](#t)
+  - [U](#u)
+  - [V](#v)
+  - [W](#w)
+  - [X](#x)
+  - [Y](#y)
+  - [Z](#z)
 
 ---
 
-## A (ACL, AES, API, ARP, AV)
+## A
 
 - **ACL**: *Access Control Lists* - ACLs define who gets access to what resources in computing.
 - **AES**: *Advanced Encryption Standard* - A symmetric encryption algorithm used to secure sensitive data.
@@ -43,14 +43,14 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## B (BCP, BYOD)
+## B
 
 - **BCP**: *Business Continuity Planning* - The process of creating a plan to ensure that critical business functions can continue during and after a disaster or disruption.
 - **BYOD**: *Bring Your Own Device* - A policy that allows employees to use their personal devices for work purposes.
 
 ---
 
-## C (C2, C2C, CA, CISO, CSRF, CSIRT, CTF, CVE, CVSS)
+## C
 
 - **CA**: *Certificate Authority* - An entity that issues digital certificates used to verify the authenticity and integrity of a website or entity.
 - **CISO**: *Chief Information Security Officer* - The senior executive responsible for the management and implementation of an organization's information security program.
@@ -64,7 +64,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## D (DDoS, DMZ, DNS, DoS, DLP, DPI)
+## D
 
 - **DDoS**: *Distributed Denial of Service* - An attack where multiple compromised systems overwhelm a target system or network, causing a denial of service.
 - **DMZ**: *Demilitarized Zone* - A network segment that separates an internal network from an external network, typically used to host publicly accessible services.
@@ -75,14 +75,14 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## E (EDR, EULA)
+## E
 
 - **EDR**: *Endpoint Detection and Response* - A security solution that monitors and investigates endpoint activities to detect and respond to advanced threats.
 - **EULA**: *End-User License Agreement* - A legal contract between a software application author or publisher and the user of that application.
 
 ---
 
-## F (FDE, FQDN, FUD)
+## F
 
 - **FTP**: *File Transfer Protocol* - A standard network protocol used to transfer files between a client and a server on a computer network.
 - **FDE**: *Full Disk Encryption* - The encryption of an entire disk or storage device.
@@ -91,7 +91,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## G (GDPR, GPO, GRC, GUI, GPG, GPGPU, GPU)
+## G
 
 - **GDPR**: *General Data Protection Regulation* - A regulation in the European Union that governs the protection and privacy of personal data.
 - **GPO**: *Group Policy Object* - A collection of settings that define what a system will look like and how it will behave for a defined group of users.
@@ -103,7 +103,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## H (HIDS, HIPS, HSM, HTTP, HTTPS, HSTS, HTML)
+## H
 
 - **HIPAA**: *Health Insurance Portability and Accountability Act* - A U.S. law that protects the privacy and security of healthcare information.
 - **HIDS**: *Host-based Intrusion Detection System* - A security system that monitors and analyzes activities on a single host to detect signs of intrusion.
@@ -116,7 +116,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## I (IaaS, IDS, IPS, IPsec, IaC)
+## I
 
 - **IaaS**: *Infrastructure as a Service* - A cloud computing service that provides virtualized computing resources over the internet.
 - **IDS**: *Intrusion Detection System* - A security system that monitors and analyzes network traffic to detect signs of intrusion.
@@ -126,7 +126,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## J (JIT, JRE, JVM, JSON, JWT, JTAG, JSP)
+## J
 
 - **JIT**: *Just-in-Time* - A compiler that compiles code during runtime, rather than ahead of time.
 - **JRE**: *Java Runtime Environment* - A software package that contains what is needed to run a Java program.
@@ -138,14 +138,14 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## K (KDC, KVM)
+## K
 
 - **KDC**: *Key Distribution Center* - A server that issues tickets to users and hosts that authenticate to a Kerberos realm.
 - **KVM**: *Kernel-based Virtual Machine* - A virtualization infrastructure for the Linux kernel that turns it into a hypervisor.
 
 ---
 
-## L (LDAP, LFI, LKM, LPE, LUKS, LVM, LXC, LZMA)
+## L
 
 - **LDAP**: *Lightweight Directory Access Protocol* - An open, vendor-neutral, industry standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol (IP) network.
 - **LFI**: *Local File Inclusion* - A type of web vulnerability that allows an attacker to read files on a server.
@@ -158,7 +158,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## M (MAC)
+## M
 
 - **MAC**: *Mandatory Access Control* - A type of access control that restricts access to objects based on the sensitivity of the information contained in the objects and the formal authorization (e.g., clearance, need-to-know) of users to access information of such sensitivity.
 - **MAC**: *Media Access Control* - A unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment.
@@ -166,7 +166,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## N (NAC, NAT, NIDS, NIPS, NIST, NTP, NTLM)
+## N
 
 - **NAC**: *Network Access Control* - A method of bolstering the security of a proprietary network by restricting the availability of network resources to endpoint devices that comply with a defined security policy.
 - **NAT**: *Network Address Translation* - A method of remapping one IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device.
@@ -178,7 +178,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## O (OAUTH, OAUTH2, OCSP, OOB, OS, OTP, OWASP, OXML)
+## O
 
 - **OAUTH**: *Open Authorization* - An open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords.
 - **OAUTH2**: *Open Authorization 2* - An authorization framework that enables applications to obtain limited access to user accounts on an HTTP service, such as Facebook, GitHub, and DigitalOcean.
@@ -191,7 +191,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## P (PAM, PAP, PAT, PBE, PGP, PHP, PII, PKI, POP, PPTP, PSK, PTP, PUA, PUP, PWN, PXE)
+## P
 
 - **PAM**: *Pluggable Authentication Module* - A mechanism to integrate multiple low-level authentication schemes into a high-level application programming interface (API).
 - **PAM**: *Privileged Access Management* - Controls and monitors privileged user access to prevent security breaches.
@@ -212,7 +212,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## R (RADIUS, RAID, RAT, RDP, RFI, RFID, RPO, RSA, RTO, RTOS, RTP, RTSP)
+## R
 
 - **RADIUS**: *Remote Authentication Dial-In User Service* - A networking protocol that provides centralized Authentication, Authorization, and Accounting (AAA) management for users who connect and use a network service.
 - **RAID**: *Redundant Array of Independent Disks* - A data storage virtualization technology that combines multiple physical disk drive components into one or more logical units for the purposes of data redundancy, performance improvement, or both.
@@ -229,7 +229,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## S (S/MIME, SaaS, SAN, SCADA, SDLC, SDN, SED, SELinux, SIEM, SIM, SIP, SLA, SSO, SSL, SSH, SSID)
+## S
 
 - **S/MIME**: *Secure/Multipurpose Internet Mail Extensions* - A standard for public key encryption and signing of MIME data.
 - **SaaS**: *Software as a Service* - A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted.
@@ -250,7 +250,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## T (TACACS, TCP, TCP/IP, TFTP, TLS, TPM, TTP, TTY, TTS, TTL)
+## T
 
 - **TACACS**: T*erminal Access Controller Access-Control System* - A protocol that handles authentication, authorization, and accounting (AAA) services.
 - **TCP**: *Transmission Control Protocol* - A standard that defines how to establish and maintain a network conversation through which application programs can exchange data.
@@ -265,7 +265,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## U (UAC, UDP, UEFI, UML, UNC, UPS, URI, URL, USB, UTF, USB OTG, UX, UTM, UUID)
+## U
 
 - **UAC**: *User Account Control* - A security feature that helps prevent unauthorized changes to a computer.
 - **UDP**: *User Datagram Protocol* - A communications protocol that is primarily used for establishing low-latency and loss-tolerating connections between applications on the internet.
@@ -283,7 +283,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## V (VDI, VDSL, VNC, VoIP, VPN, VTC, VTP, VTY)
+## V
 
 - **VDI**: *Virtual Desktop Infrastructure* - A desktop virtualization technology wherein a desktop operating system, typically Microsoft Windows, runs and is managed in an on-premises or cloud data center.
 - **VDSL**: *Very-high-bit-rate Digital Subscriber Line* - A digital subscriber line (DSL) technology providing faster data transmission over a single flat untwisted or twisted pair of copper wires.
@@ -296,7 +296,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## W (WAF, WAP, WEP, WIDS, WIPS, WORM, WPA, WPS, WPA2, WPA3)
+## W
 
 - **WAF**: *Web Application Firewall* - A type of firewall that protects web applications from common web exploits that could affect application availability, compromise security, or consume excessive resources.
 - **WAP**: *Wireless Access Point* - A networking hardware device that allows wireless devices to connect to a wired network using Wi-Fi, Bluetooth or related standards.
@@ -311,7 +311,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## X (XaaS, XDR, XML, XSS, XSRF)
+## X
 
 - **XaaS**: *Anything as a Service* - A collective term that stands for a number of things including "X as a service," "anything as a service" or "everything as a service."
 - **XDR**: *Extended Detection and Response* - A unified security incident detection and response platform that automatically collects and correlates data from multiple proprietary security components.
@@ -321,7 +321,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## Y (Y2K, YARA, YUM, YUMI, YUV)
+## Y
 
 - **Y2K**: *Year 2000* - A problem in the coding of computerized systems that was projected to create havoc in computers and computer networks around the world at the beginning of the year 2000.
 - **YARA**: *Yet Another Recursive Acronym* - A tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples.
@@ -331,7 +331,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-## Z (ZFS, ZIF, ZTNA)
+## Z
 
 - **ZFS**: *Z File System* - A combined file system and logical volume manager designed by Sun Microsystems.
 - **ZIF**: *Zero Insertion Force* - A type of IC socket or electrical connector that requires very little force for insertion.

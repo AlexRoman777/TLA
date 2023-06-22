@@ -36,7 +36,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ## D
 
-- **DNS**: *Domain Name System* - A system that translates domain names (e.g., www.example.com) into IP addresses, allowing computers to locate and communicate with each other on the internet.
+- **DNS**: *Domain Name System* - A system that translates domain names into IP addresses, allowing computers to locate and communicate with each other on the internet.
 - **Docker**: *Docker* - An open-source platform that allows applications to be isolated and packaged along with their dependencies, providing a consistent runtime environment across different systems.
 
 ---
