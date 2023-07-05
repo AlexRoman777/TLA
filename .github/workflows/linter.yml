@@ -24,7 +24,8 @@ jobs:
       - name: Lint Last Commit
         uses: github/super-linter/slim@v5
         env:
-          VALIDATE_ALL_CODEBASE: false
-  
+          MARKDOWN_CONFIG_FILE: .markdown-lint.
+          VALIDATE_MARKDOWN: true
+          
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
