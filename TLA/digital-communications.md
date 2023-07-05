@@ -1,4 +1,4 @@
-# Digital Communication Acronyms
+# Digital Communications
 
 Back to [TLA](../README.md)
 
@@ -212,4 +212,4 @@ Back to [TLA](../README.md)
 
 ---
 
-Back to [top](#digital-communication-acronyms)
+Back to [top](#digital-communications)
