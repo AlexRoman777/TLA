@@ -5,13 +5,16 @@ on: [pull_request_target, issues]
 
 jobs:
   greeting:
+    name: Greeting the newcomer
     runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write
     steps:
-    - uses: actions/first-interaction@v1
-      with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "Welcome to Three Letter Acronyms! Thanks for opening your first issue."
-        pr-message: "Welcome to Three Letter Acronyms! Thanks for opening your first pull request."
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: 
+            "Welcome to Three Letter Acronyms!"
+          pr-message: 
+            "Welcome to Three Letter Acronyms!"
