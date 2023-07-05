@@ -5,6 +5,7 @@ A list of acronyms and abbreviations used in IT and related fields. Cybersecurit
 ---
 
 [![Greetings](https://github.com/AlexRoman777/TLA/actions/workflows/greatings.yml/badge.svg)](https://github.com/AlexRoman777/TLA/actions/workflows/greatings.yml)
+[![Linter](https://github.com/AlexRoman777/TLA/actions/workflows/linter.yml/badge.svg)](https://github.com/AlexRoman777/TLA/actions/workflows/linter.yml)
 
 ---
 
