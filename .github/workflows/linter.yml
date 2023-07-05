@@ -24,7 +24,7 @@ jobs:
       - name: Lint Last Commit
         uses: github/super-linter/slim@v5
         env:
-          MARKDOWN_CONFIG_FILE: .markdown-lint.
+          MARKDOWN_CONFIG_FILE: .markdown-lint.yml
           VALIDATE_MARKDOWN: true
           
           DEFAULT_BRANCH: main
