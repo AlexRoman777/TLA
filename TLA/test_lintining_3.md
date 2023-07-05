@@ -6,3 +6,5 @@ Text without blank line after title.
 ---
 
 ## **One** more bad title.
+
+---
