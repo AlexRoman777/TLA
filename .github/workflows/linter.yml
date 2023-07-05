@@ -1,5 +1,5 @@
 ---
-name: Linter
+name: Markdown Linter
 
 on:
   pull_request:
