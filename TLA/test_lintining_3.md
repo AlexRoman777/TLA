@@ -4,3 +4,5 @@ Text without blank line after title.
 ### Wrong heading level
 
 ---
+
+## **One** more bad title.
