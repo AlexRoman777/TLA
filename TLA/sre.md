@@ -1,19 +1,14 @@
 # SRE - Site Reliability Engineering
 
-Back to [**TLA** | Alphabet Soup](../README.md)
-
----
-
-- [SRE - Site Reliability Engineering](#sre---site-reliability-engineering)
-  - [What is SRE?](#what-is-sre)
-  - [Acronyms](#acronyms)
-  - [Terms](#terms)
+Back to [TLA](../README.md)
 
 ---
 
 ## What is SRE?
 
 SRE is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals are to create scalable and highly reliable software systems.
+
+---
 
 ## Acronyms
 
@@ -170,4 +165,4 @@ SRE is a discipline that incorporates aspects of software engineering and applie
 
 ---
 
-Back to [**TLA** | Alphabet Soup](../README.md)
+Back to [top](#sre---site-reliability-engineering)

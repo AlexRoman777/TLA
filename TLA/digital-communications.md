@@ -1,33 +1,6 @@
 # Digital Communication Acronyms
 
-Back to [**TLA** | Alphabet Soup](../README.md)
-
----
-
-- [Digital Communication Acronyms](#digital-communication-acronyms)
-  - [A](#a)
-  - [B](#b)
-  - [C](#c)
-  - [D](#d)
-  - [E](#e)
-  - [F](#f)
-  - [G](#g)
-  - [H](#h)
-  - [I](#i)
-  - [J](#j)
-  - [L](#l)
-  - [M](#m)
-  - [N](#n)
-  - [O](#o)
-  - [P](#p)
-  - [R](#r)
-  - [S](#s)
-  - [T](#t)
-  - [U](#u)
-  - [V](#v)
-  - [W](#w)
-  - [Y](#y)
-  - [Z](#z)
+Back to [TLA](../README.md)
 
 ---
 
@@ -237,4 +210,6 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 - **ZOMG**: *An expression of surprise, excitement, or disbelief* - A variation of "OMG" that is often used sarcastically.
 - **Zzz**: *Used to represent sleeping or snoring* - Often used to indicate boredom or tiredness.
 
-Back to [**TLA** | Alphabet Soup](../README.md)
+---
+
+Back to [top](#digital-communication-acronyms)

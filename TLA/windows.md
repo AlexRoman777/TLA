@@ -1,30 +1,8 @@
 # Acronyms for Windows
 
-Back to [**TLA** | Alphabet Soup](../README.md)
+Back to [TLA](../README.md)
 
 ---
-
-- [Acronyms for Windows](#acronyms-for-windows)
-  - [A](#a)
-  - [C](#c)
-  - [D](#d)
-  - [E](#e)
-  - [F](#f)
-  - [G](#g)
-  - [H](#h)
-  - [I](#i)
-  - [K](#k)
-  - [L](#l)
-  - [M](#m)
-  - [N](#n)
-  - [O](#o)
-  - [P](#p)
-  - [R](#r)
-  - [S](#s)
-  - [T](#t)
-  - [U](#u)
-  - [V](#v)
-  - [W](#w)
 
 ## A
 
@@ -161,4 +139,4 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-Back to [**TLA** | Alphabet Soup](../README.md)
+Back to [top](#acronyms-for-windows)

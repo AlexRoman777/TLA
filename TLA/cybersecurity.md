@@ -1,35 +1,6 @@
 # Acronyms for Cybersecurity
 
-Back to [**TLA** | Alphabet Soup](../README.md)
-
----
-
-- [Acronyms for Cybersecurity](#acronyms-for-cybersecurity)
-  - [A](#a)
-  - [B](#b)
-  - [C](#c)
-  - [D](#d)
-  - [E](#e)
-  - [F](#f)
-  - [G](#g)
-  - [H](#h)
-  - [I](#i)
-  - [J](#j)
-  - [K](#k)
-  - [L](#l)
-  - [M](#m)
-  - [N](#n)
-  - [O](#o)
-  - [P](#p)
-  - [R](#r)
-  - [S](#s)
-  - [T](#t)
-  - [U](#u)
-  - [V](#v)
-  - [W](#w)
-  - [X](#x)
-  - [Y](#y)
-  - [Z](#z)
+Back to [TLA](../README.md)
 
 ---
 
@@ -341,4 +312,4 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 ---
 
-Back to [**TLA** | Alphabet Soup](../README.md)
+Back to [top](#acronyms-for-cybersecurity)
