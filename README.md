@@ -16,4 +16,6 @@ A list of acronyms and abbreviations used in IT. Cybersecurity & Information Tec
 
 [**SRE**](TLA/sre.md)
 
+[**Digital Communications**](TLA/digital-communications.md)
+
 ---
