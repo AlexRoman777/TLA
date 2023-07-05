@@ -1,21 +1,6 @@
 # Acronyms for DevOps
 
-Back to [**TLA** | Alphabet Soup](../README.md)
-
----
-
-- [Acronyms for DevOps](#acronyms-for-devops)
-  - [A](#a)
-  - [C](#c)
-  - [D](#d)
-  - [E](#e)
-  - [I](#i)
-  - [J](#j)
-  - [K](#k)
-  - [P](#p)
-  - [S](#s)
-  - [T](#t)
-  - [V](#v)
+Back to [TLA](../README.md)
 
 ---
 
@@ -62,6 +47,7 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 ## K
 
 - **K8s**: *Kubernetes* - An open-source container orchestration platform that automates the deployment, scaling, and management of containerized applications.
+- **KVM**: *Kernel-based Virtual Machine* - A virtualization technology that allows multiple virtual machines to run on a Linux host.
 
 ---
 
@@ -82,10 +68,12 @@ Back to [**TLA** | Alphabet Soup](../README.md)
 
 - **TDD**: *Test-Driven Development* - A software development practice where tests are written before the implementation code. It helps ensure that the code meets the desired functionality and helps guide the development process.
 
+---
+
 ## V
 
 - **VCS**: *Version Control System* - A system that tracks changes to files and directories over time, allowing multiple developers to collaborate on a project and manage different versions of the code.
 
 ---
 
-Back to [**TLA** | Alphabet Soup](../README.md)
+Back to [top](#acronyms-for-devops)
