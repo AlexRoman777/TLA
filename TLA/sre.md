@@ -12,21 +12,21 @@ SRE is a discipline that incorporates aspects of software engineering and applie
 
 ## Acronyms
 
-- **SLO**: *Service Level Objective* - A target or threshold for the performance or reliability of a service, defined in terms of metrics such as availability, response time, or error rate.
-- **SLI**: *Service Level Indicator* - A metric or measurement that quantitatively assesses the performance or behavior of a service, used to calculate SLOs.
-- **SLA**: *Service Level Agreement* - A contract between a service provider and a customer that defines the agreed-upon level of service, including metrics, responsibilities, and penalties.
-- **MTTF**: *Mean Time to Failure* - The average time between system failures, used to measure reliability.
-- **MTTR**: *Mean Time to Recovery* - The average time required to restore a failed system or service to normal operation, used to measure reliability and assess incident response efficiency.
-- **MTO**: *Mean Time to Observe* - The average time it takes to detect an issue or incident within a system or service, used to measure observability.
-- **MTTD**: *Mean Time to Detect* - The average time it takes to identify and recognize an issue or incident within a system or service, used to measure observability.
-- **MTBF**: *Mean Time Between Failures* - The average time between two consecutive failures of a system or component, used to measure reliability.
-- **MTTR**: *Mean Time to Repair* - The average time required to fix a failed system or component, used to measure reliability and assess incident resolution efficiency.
-- **TOIL**: *Time spent On Incidents and Lapses* - Any manual, repetitive, or non-essential work that must be performed to keep a system running smoothly, often targeted for automation or elimination.
-- **CI/CD**: *Continuous Integration/Continuous Deployment* - Practices that enable frequent code integration, automated testing, and continuous deployment to production environments.
-- **HA**: *High Availability* - A characteristic of a system or service that aims to ensure a high level of operational uptime, typically achieved through redundancy and fault tolerance mechanisms.
-- **DR**: *Disaster Recovery* - The process and set of strategies and procedures designed to recover and restore critical systems and services after a major disruptive event.
-- **RTO**: *Recovery Time Objective* - The targeted duration within which a system or service should be restored after a failure or disruption, as defined in a disaster recovery plan.
-- **RPO**: *Recovery Point Objective* - The targeted maximum acceptable amount of data loss in the event of a system or service failure, as defined in a disaster recovery plan.
+- **SLO**: _Service Level Objective_ - A target or threshold for the performance or reliability of a service, defined in terms of metrics such as availability, response time, or error rate.
+- **SLI**: _Service Level Indicator_ - A metric or measurement that quantitatively assesses the performance or behavior of a service, used to calculate SLOs.
+- **SLA**: _Service Level Agreement_ - A contract between a service provider and a customer that defines the agreed-upon level of service, including metrics, responsibilities, and penalties.
+- **MTTF**: _Mean Time to Failure_ - The average time between system failures, used to measure reliability.
+- **MTTR**: _Mean Time to Recovery_ - The average time required to restore a failed system or service to normal operation, used to measure reliability and assess incident response efficiency.
+- **MTO**: _Mean Time to Observe_ - The average time it takes to detect an issue or incident within a system or service, used to measure observability.
+- **MTTD**: _Mean Time to Detect_ - The average time it takes to identify and recognize an issue or incident within a system or service, used to measure observability.
+- **MTBF**: _Mean Time Between Failures_ - The average time between two consecutive failures of a system or component, used to measure reliability.
+- **MTTR**: _Mean Time to Repair_ - The average time required to fix a failed system or component, used to measure reliability and assess incident resolution efficiency.
+- **TOIL**: _Time spent On Incidents and Lapses_ - Any manual, repetitive, or non-essential work that must be performed to keep a system running smoothly, often targeted for automation or elimination.
+- **CI/CD**: _Continuous Integration/Continuous Deployment_ - Practices that enable frequent code integration, automated testing, and continuous deployment to production environments.
+- **HA**: _High Availability_ - A characteristic of a system or service that aims to ensure a high level of operational uptime, typically achieved through redundancy and fault tolerance mechanisms.
+- **DR**: _Disaster Recovery_ - The process and set of strategies and procedures designed to recover and restore critical systems and services after a major disruptive event.
+- **RTO**: _Recovery Time Objective_ - The targeted duration within which a system or service should be restored after a failure or disruption, as defined in a disaster recovery plan.
+- **RPO**: _Recovery Point Objective_ - The targeted maximum acceptable amount of data loss in the event of a system or service failure, as defined in a disaster recovery plan.
 
 ---
 
@@ -52,9 +52,9 @@ SRE is a discipline that incorporates aspects of software engineering and applie
 - **Proactive Maintenance**: Preemptive actions taken to prevent issues or failures, such as applying patches, updating software versions, or replacing aging hardware.
 - **Onboarding**: The process of integrating new systems, applications, or services into an existing environment, ensuring their proper configuration, monitoring, and management.
 - **Offboarding**: The process of decommissioning or removing systems, applications, or services from an environment while ensuring data integrity and minimizing disruption.
-- **SRE-TM**: *Site Reliability Engineering - Team Manager* - The role responsible for overseeing and managing a team of Site Reliability Engineers, including their work, development, and alignment with business objectives.
-- **SRE-L**: *Site Reliability Engineering - Lead* - A senior SRE role responsible for technical leadership, mentoring, and driving SRE practices and initiatives within an organization.
-- **SRE-M**: *Site Reliability Engineering - Manager* - A managerial role responsible for leading and managing a team of Site Reliability Engineers, including resource planning, project management, and coordination.
+- **SRE-TM**: _Site Reliability Engineering - Team Manager_ - The role responsible for overseeing and managing a team of Site Reliability Engineers, including their work, development, and alignment with business objectives.
+- **SRE-L**: _Site Reliability Engineering - Lead_ - A senior SRE role responsible for technical leadership, mentoring, and driving SRE practices and initiatives within an organization.
+- **SRE-M**: _Site Reliability Engineering - Manager_ - A managerial role responsible for leading and managing a team of Site Reliability Engineers, including resource planning, project management, and coordination.
 - **On-Call Rotation**: A schedule or system where SREs take turns being available and responsible for responding to incidents or alerts outside of regular working hours.
 - **SLI/SLO Dashboard**: A visual representation or interface that displays real-time or historical metrics related to service level indicators (SLIs) and service level objectives (SLOs), allowing monitoring and tracking of performance and reliability.
 - **Triage**: The process of rapidly assessing and categorizing incidents or issues to determine their priority, severity, and appropriate response.
@@ -125,8 +125,7 @@ SRE is a discipline that incorporates aspects of software engineering and applie
 - **SLO-Based Error Budgeting**: An approach where the allocation and utilization of the error budget are directly tied to the achievement or violation of service level objectives (SLOs), providing a quantitative measure of reliability.
 - **Recovery Strategies**: Predefined plans or approaches to restore and recover a system or service after a failure or disruption, considering different scenarios, priorities, and dependencies.
 - **Incident Postponement**: A decision or strategy to delay or defer the resolution of an incident or issue, usually due to its lower impact, lower urgency, or prioritization of other critical tasks or incidents.
-- **Mean Time Between Severe Incidents**: The average time interval between significant incidents or failures that have a severe impact on system or service availability, functionality, or user experience.
--**SRE Roadmap**: A strategic plan or timeline outlining the key initiatives, projects, and milestones for the Site Reliability Engineering team, aligning with organizational objectives and priorities.
+- **Mean Time Between Severe Incidents**: The average time interval between significant incidents or failures that have a severe impact on system or service availability, functionality, or user experience. -**SRE Roadmap**: A strategic plan or timeline outlining the key initiatives, projects, and milestones for the Site Reliability Engineering team, aligning with organizational objectives and priorities.
 - **Change Freeze Window**: A predetermined period of time during which no changes or updates are allowed in a system or environment, typically to ensure stability and minimize risks during critical business operations or events.
 - **Request Throttling**: A mechanism or strategy to limit the rate or frequency of incoming requests or operations to prevent overloading or overwhelming a system or service, ensuring performance and stability.
 - **Configuration Drift**: The gradual deviation or inconsistency that can occur between the intended or documented configuration of a system and its actual state, often due to manual changes, uncontrolled updates, or lack of synchronization.

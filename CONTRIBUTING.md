@@ -2,8 +2,8 @@
 
 Use this format:
 
-Acronym: *Full Name* - Short Description.
+Acronym: _Full Name_ - Short Description.
 
-``` markdown
-**CLI**: *Command Line Interface* - A text-based interface for interacting with the operating system using commands.
+```markdown
+**CLI**: _Command Line Interface_ - A text-based interface for interacting with the operating system using commands.
 ```
