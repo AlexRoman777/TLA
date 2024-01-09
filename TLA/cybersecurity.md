@@ -223,7 +223,7 @@ Back to [TLA](../README.md)
 
 ## T
 
-- **TACACS**: T*erminal Access Controller Access-Control System* - A protocol that handles authentication, authorization, and accounting (AAA) services.
+- **TACACS**: _Terminal Access Controller Access-Control System_ - A protocol that handles authentication, authorization, and accounting (AAA) services.
 - **TCP**: _Transmission Control Protocol_ - A standard that defines how to establish and maintain a network conversation through which application programs can exchange data.
 - **TCP/IP**: _Transmission Control Protocol/Internet Protocol_ - The basic communication language or protocol of the Internet.
 - **TFTP**: _Trivial File Transfer Protocol_ - A simple lockstep File Transfer Protocol which allows a client to get a file from or put a file onto a remote host.
