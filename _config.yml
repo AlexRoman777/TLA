@@ -3,4 +3,4 @@ plugins:
   - jekyll-remote-theme
 title: TLA
 description: Three Letter Acronyms
-favicon: /assets/images/favicon.ico
+favicon: assets/images/favicon.ico
