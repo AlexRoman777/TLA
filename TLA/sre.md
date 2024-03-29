@@ -4,9 +4,7 @@ Back to [TLA](../README.md)
 
 ---
 
-## What is SRE?
-
-SRE is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals are to create scalable and highly reliable software systems.
+A list of acronyms and terms commonly used in Site Reliability Engineering (SRE) practices.
 
 ---
 

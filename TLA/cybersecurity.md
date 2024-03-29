@@ -4,6 +4,10 @@ Back to [TLA](../README.md)
 
 ---
 
+Acronyms and abbreviations commonly used in cybersecurity and information security environments.
+
+---
+
 ## A
 
 - **ACL**: _Access Control Lists_ - ACLs define who gets access to what resources in computing.

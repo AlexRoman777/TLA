@@ -4,6 +4,10 @@ Back to [TLA](../README.md)
 
 ---
 
+List of acronyms and abbreviations commonly used in Linux environments.
+
+---
+
 ## A
 
 - **ACPI**: _Advanced Configuration and Power Interface_ - A standard for power management and configuration on modern computer systems.

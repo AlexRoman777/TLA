@@ -4,6 +4,10 @@ Back to [TLA](../README.md)
 
 ---
 
+A list of acronyms and abbreviations commonly used in digital communications, social media, and online messaging.
+
+---
+
 ## A
 
 - **AFK**: _Away From Keyboard_ - Indicates that the person is temporarily unavailable or not actively participating in a conversation.

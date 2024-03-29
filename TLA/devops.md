@@ -4,6 +4,10 @@ Back to [TLA](../README.md)
 
 ---
 
+Acronyms and abbreviations commonly used in DevOps and cloud computing environments.
+
+---
+
 ## A
 
 - **API**: _Application Programming Interface_ - A set of rules and protocols that allows different software applications to communicate with each other.
