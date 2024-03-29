@@ -24,13 +24,12 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <hr>
         </div>
-
         {{ content }}
-
       </section>
 
-      <footer style="text-align: center;">
-        <span class="site-footer-owner">Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+      <footer style="display: flex; justify-content: center; align-items: center;">
+        <span class="site-footer-owner" style="margin-right: 20px;">Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+        <p style="margin: 0;">Last updated: {{ site.time | date: '%Y-%m-%d' }}</p>
       </footer>
     </div>
 
