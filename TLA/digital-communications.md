@@ -13,6 +13,7 @@ Back to [TLA](../README.md)
 - **ATW**: _All The Way_ - Indicates that the person agrees with something completely or wholeheartedly.
 - **AWOL**: _Absent Without Leave_ - Indicates that the person is absent from their post or job without permission.
 
+[🔝](#digital-comunications)
 ---
 
 ## B
@@ -23,12 +24,16 @@ Back to [TLA](../README.md)
 - **BUMP**: _Bring Up My Post_ - A request to move a post to the top of a discussion thread.
 - **BYOD**: _Bring Your Own Device_ - A policy that allows employees to use their own devices for work purposes.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## C
 
 - **CTA**: _Call to Action_ - A phrase or statement intended to encourage others to take a specific action.
 - **CYA**: _Cover Your Ass_ - A reminder to take necessary precautions or protect oneself from potential consequences.
+
+[🔝](#digital-comunications)
 
 ---
 
@@ -37,6 +42,8 @@ Back to [TLA](../README.md)
 - **DM**: _Direct Message_ - A private message sent through a social media platform or messaging app.
 - **DND**: _Do Not Disturb_ - Indicates that the person prefers not to be interrupted or contacted at the moment.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## E
@@ -44,12 +51,16 @@ Back to [TLA](../README.md)
 - **EMB**: _Early Morning Breakfast_ - Refers to a social gathering for breakfast held in the early morning.
 - **ETA**: _Estimated Time of Arrival_ - Indicates the expected time of arrival at a particular location.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## F
 
 - **FOMO**: _Fear Of Missing Out_ - The anxiety or unease caused by the possibility of missing out on enjoyable experiences.
 - **FYI**: _For Your Information_ - Used to provide someone with information or to indicate that they should be aware of something.
+
+[🔝](#digital-comunications)
 
 ---
 
@@ -61,6 +72,8 @@ Back to [TLA](../README.md)
 - **GMTA**: _Great Minds Think Alike_ - Indicates that two people have independently arrived at the same idea or conclusion.
 - **GR8**: _Great_ - Indicates that something is very good or enjoyable.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## H
@@ -71,6 +84,8 @@ Back to [TLA](../README.md)
 - **HML**: _Hate My Life_ - Indicates that the speaker is unhappy or dissatisfied with their life.
 - **HMB**: _Hit Me Back_ - A request for someone to contact or reach out to the person.
 - **HBU**: _How About You_ - Indicates that the speaker is interested in learning about the listener's thoughts or experiences.
+
+[🔝](#digital-comunications)
 
 ---
 
@@ -84,6 +99,8 @@ Back to [TLA](../README.md)
 - **IIRC**: _If I Recall Correctly_ - Indicates that the speaker is unsure about the accuracy of a statement.
 - **IDK**: _I Don't Know_ - Indicates a lack of knowledge or awareness about a particular matter.
 - **IDC**: _I Don't Care_ - Indicates a lack of interest or concern about a particular matter.
+
+[🔝](#digital-comunications)
 
 ---
 
@@ -101,12 +118,16 @@ Back to [TLA](../README.md)
 - **J4U**: _Just For You_ - Indicates that something is being done for the benefit or enjoyment of a particular person.
 - **J4M**: _Just For Me_ - Indicates that something is being done for the benefit or enjoyment of the speaker.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## L
 
 - **LOL**: _Laugh Out Loud_ - Indicates that something is funny or amusing.
 - **LMAO**: _Laughing My Ass Off_ - Indicates that something is extremely funny.
+
+[🔝](#digital-comunications)
 
 ---
 
@@ -115,6 +136,8 @@ Back to [TLA](../README.md)
 - **MT**: _Modified Tweet_ - Indicates that a tweet has been modified from its original form.
 - **MIA**: _Missing In Action_ - Refers to someone who is absent or cannot be found.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## N
@@ -122,12 +145,16 @@ Back to [TLA](../README.md)
 - **NBD**: _No Big Deal_ - Indicates that something is not significant or not worth worrying about.
 - **NSFW**: _Not Safe For Work_ - Used to label content that is inappropriate for viewing in a professional or public setting.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## O
 
 - **OMG**: _Oh My God_ - An expression of surprise, excitement, or disbelief.
 - **OOTD**: _Outfit Of The Day_ - Refers to a social media post showcasing an individual's chosen outfit for the day.
+
+[🔝](#digital-comunications)
 
 ---
 
@@ -141,6 +168,8 @@ Back to [TLA](../README.md)
 - **PTO**: _Paid Time Off_ - Indicates that someone is taking time off from work or school.
 - **P2P**: _Person to Person_ - Indicates that a transaction or communication is between two individuals.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## R
@@ -150,6 +179,8 @@ Back to [TLA](../README.md)
 - **RTFM**: \*Read The F*\*\*ing Manual* - Indicates that someone should read the instructions or manual before asking a question.
 - **RTM**: _Read The Manual_ - Indicates that someone should read the instructions or manual before asking a question.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## S
@@ -157,6 +188,8 @@ Back to [TLA](../README.md)
 - **SMH**: _Shaking My Head_ - Expresses disbelief, disappointment, or disapproval.
 - **STFU**: \*Shut the F*\*\* Up* - A rude way of telling someone to stop talking.
 - **SFW**: _Safe For Work_ - Used to label content that is appropriate for viewing in a professional or public setting.
+
+[🔝](#digital-comunications)
 
 ---
 
@@ -168,6 +201,8 @@ Back to [TLA](../README.md)
 - **TMI**: _Too Much Information_ - Indicates that someone has shared too many personal details or is being overly descriptive.
 - **TBT**: _Throwback Thursday_ - A social media trend where people share nostalgic content on Thursdays.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## U
@@ -176,12 +211,16 @@ Back to [TLA](../README.md)
 - **UWU**: _An emoticon representing an affectionate or happy facial expression_ - Often used to express excitement or adoration.
 - **U**: _You_ - A shortened form of "you" often used in informal communication.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## V
 
 - **VIP**: _Very Important Person_ - Refers to someone who is considered significant or of high status.
 - **VS**: _Versus_ - Used to indicate a comparison or competition between two things or people.
+
+[🔝](#digital-comunications)
 
 ---
 
@@ -195,6 +234,8 @@ Back to [TLA](../README.md)
 - **WTF**: \*What The F\*\*\*\* - An expression of disbelief, shock, or frustration, often used to express extreme confusion or anger.
 - **WYD**: _What You Doing_ - A question asking someone about their current activities or plans.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## Y
@@ -203,6 +244,8 @@ Back to [TLA](../README.md)
 - **YW**: _You're Welcome_ - A polite response to someone expressing gratitude.
 - **YMMV**: _Your Mileage May Vary_ - Indicates that a particular experience may be different for others.
 
+[🔝](#digital-comunications)
+
 ---
 
 ## Z
@@ -210,6 +253,8 @@ Back to [TLA](../README.md)
 - **ZOMG**: _An expression of surprise, excitement, or disbelief_ - A variation of "OMG" that is often used sarcastically.
 - **Zzz**: _Used to represent sleeping or snoring_ - Often used to indicate boredom or tiredness.
 
+[🔝](#digital-comunications)
+
 ---
 
-Back to [top](#digital-communications)
+Back to [TLA](../README.md)
