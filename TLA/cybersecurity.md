@@ -12,12 +12,16 @@ Back to [TLA](../README.md)
 - **ARP**: _Address Resolution Protocol_ - A protocol used to map an IP address to a physical (MAC) address on a local network.
 - **AV**: _Antivirus_ - Software designed to detect, prevent, and remove malware from a computer system.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## B
 
 - **BCP**: _Business Continuity Planning_ - The process of creating a plan to ensure that critical business functions can continue during and after a disaster or disruption.
 - **BYOD**: _Bring Your Own Device_ - A policy that allows employees to use their personal devices for work purposes.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -33,6 +37,8 @@ Back to [TLA](../README.md)
 - **C2**: _Command and Control_ - A server used by an attacker to send commands to compromised systems.
 - **C2C**: _Command and Control Channel_ - A channel used by an attacker to send commands to compromised systems.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## D
@@ -44,12 +50,16 @@ Back to [TLA](../README.md)
 - **DLP**: _Data Loss Prevention_ - A strategy for preventing the loss of sensitive data.
 - **DPI**: _Deep Packet Inspection_ - Deep Packet Inspection examines network data to detect and manage security threats or violations.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## E
 
 - **EDR**: _Endpoint Detection and Response_ - A security solution that monitors and investigates endpoint activities to detect and respond to advanced threats.
 - **EULA**: _End-User License Agreement_ - A legal contract between a software application author or publisher and the user of that application.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -59,6 +69,8 @@ Back to [TLA](../README.md)
 - **FDE**: _Full Disk Encryption_ - The encryption of an entire disk or storage device.
 - **FQDN**: _Fully Qualified Domain Name_ - The complete domain name for a specific computer, or host, on the internet.
 - **FUD**: _Fully Undetectable_ - A type of malware that is not detected by antivirus software.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -71,6 +83,8 @@ Back to [TLA](../README.md)
 - **GPG**: _GNU Privacy Guard_ - A free and open-source implementation of the OpenPGP standard that provides encryption and digital signature functionality.
 - **GPGPU**: _General-Purpose Computing on Graphics Processing Units_ - The use of a graphics processing unit (GPU) to perform general-purpose scientific, engineering, or business computations.
 - **GPU**: _Graphics Processing Unit_ - A specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -85,6 +99,8 @@ Back to [TLA](../README.md)
 - **HSTS**: _HTTP Strict Transport Security_ - A web security policy mechanism that helps to protect websites against protocol downgrade attacks and cookie hijacking.
 - **HTML**: _Hypertext Markup Language_ - The standard markup language for documents designed to be displayed in a web browser.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## I
@@ -94,6 +110,8 @@ Back to [TLA](../README.md)
 - **IPS**: _Intrusion Prevention System_ - A security system that monitors and analyzes network traffic to detect signs of intrusion and prevent malicious activity.
 - **IPsec**: _Internet Protocol Security_ - A protocol suite for securing Internet Protocol (IP) communications by authenticating and encrypting each IP packet of a communication session.
 - **IaC**: _Infrastructure as Code_ - Automates the provisioning and management of computing resources through code.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -107,12 +125,16 @@ Back to [TLA](../README.md)
 - **JTAG**: _Joint Test Action Group_ - A standard interface that provides a way to communicate with the firmware on a device.
 - **JSP**: _JavaServer Pages_ - A technology that helps software developers create dynamically generated web pages based on HTML, XML, or other document types.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## K
 
 - **KDC**: _Key Distribution Center_ - A server that issues tickets to users and hosts that authenticate to a Kerberos realm.
 - **KVM**: _Kernel-based Virtual Machine_ - A virtualization infrastructure for the Linux kernel that turns it into a hypervisor.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -127,6 +149,8 @@ Back to [TLA](../README.md)
 - **LXC**: _Linux Containers_ - An operating-system-level virtualization method for running multiple isolated Linux systems (containers) on a control host using a single Linux kernel.
 - **LZMA**: _Lempel–Ziv–Markov chain Algorithm_ - A lossless data compression algorithm that uses a dictionary compression scheme somewhat similar to the LZ77 algorithm published by Abraham Lempel and Jacob Ziv in 1977.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## M
@@ -134,6 +158,8 @@ Back to [TLA](../README.md)
 - **MAC**: _Mandatory Access Control_ - A type of access control that restricts access to objects based on the sensitivity of the information contained in the objects and the formal authorization (e.g., clearance, need-to-know) of users to access information of such sensitivity.
 - **MAC**: _Media Access Control_ - A unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment.
 - **MAC**: _Message Authentication Code_ - A short piece of information used to authenticate a message.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -147,6 +173,8 @@ Back to [TLA](../README.md)
 - **NTP**: _Network Time Protocol_ - A networking protocol for clock synchronization between computer systems over packet-switched, variable-latency data networks.
 - **NTLM**: _NT LAN Manager_ - A suite of Microsoft security protocols that provides authentication, integrity, and confidentiality to users.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## O
@@ -159,6 +187,8 @@ Back to [TLA](../README.md)
 - **OTP**: _One-Time Password_ - A password that is valid for only one login session or transaction.
 - **OWASP**: _Open Web Application Security Project_ - An online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
 - **OXML**: _Open XML_ - A zipped, XML-based file format developed by Microsoft for representing spreadsheets, charts, presentations and word processing documents.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -181,6 +211,8 @@ Back to [TLA](../README.md)
 - **PWN**: _Own_ - A slang term meaning to compromise or control, specifically another computer (server or PC), web site, gateway device, or application.
 - **PXE**: _Preboot Execution Environment_ - An environment to boot computers using a network interface independently of available data storage devices (like hard disks) or installed operating systems.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## R
@@ -197,6 +229,8 @@ Back to [TLA](../README.md)
 - **RTOS**: _Real-Time Operating System_ - An operating system intended to serve real-time applications that process data as it comes in, typically without buffer delays.
 - **RTP**: _Real-time Transport Protocol_ - A network protocol for delivering audio and video over IP networks.
 - **RTSP**: _Real Time Streaming Protocol_ - A network control protocol designed for use in entertainment and communications systems to control streaming media servers.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -219,6 +253,8 @@ Back to [TLA](../README.md)
 - **SSH**: _Secure Shell_ - A cryptographic network protocol for operating network services securely over an unsecured network.
 - **SSID**: _Service Set Identifier_ - A 32-character unique identifier attached to the header of packets sent over a wireless local-area network (WLAN).
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## T
@@ -233,6 +269,8 @@ Back to [TLA](../README.md)
 - **TTY**: _Teletypewriter_ - A device for sending and receiving typed messages over telephone lines, in use typically before the advent of electronic communication.
 - **TTS**: _Text-to-Speech_ - A type of speech synthesis application that is used to create a spoken sound version of the text in a computer document, such as a help file or a Web page.
 - **TTL**: _Time to Live_ - A mechanism that limits the lifespan or lifetime of data in a computer or network.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -252,6 +290,8 @@ Back to [TLA](../README.md)
 - **UTM**: _Unified Threat Management_ - A comprehensive IT security suite that includes multiple security features such as antivirus, firewalling, intrusion prevention, and content filtering in a single platform.
 - **UUID**: _Universally Unique Identifier_ - A 128-bit number used to identify information in computer systems.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## V
@@ -264,6 +304,8 @@ Back to [TLA](../README.md)
 - **VTC**: _Video Teleconferencing_ - A technology that allows users in different locations to hold face-to-face meetings without having to move to a single location together.
 - **VTP**: _VLAN Trunking Protocol_ - A Cisco proprietary protocol that propagates the definition of Virtual Local Area Networks (VLAN) on the whole local area network.
 - **VTY**: _Virtual Teletype_ - A command line interface (CLI) that is used to configure and manage a networking device.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -280,6 +322,8 @@ Back to [TLA](../README.md)
 - **WPA2**: _Wi-Fi Protected Access 2_ - A security protocol and security certification program developed by the Wi-Fi Alliance to secure wireless computer networks.
 - **WPA3**: _Wi-Fi Protected Access 3_ - The next generation of Wi-Fi security standard that will replace WPA2.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## X
@@ -290,6 +334,8 @@ Back to [TLA](../README.md)
 - **XSS**: _Cross-Site Scripting_ - A type of attack where an attacker injects malicious scripts into a trusted website.
 - **XSRF**: _Cross-Site Request Forgery_ - A type of attack where an attacker tricks a user's browser into making an unwanted request to a trusted website.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
 ## Y
@@ -299,6 +345,8 @@ Back to [TLA](../README.md)
 - **YUM**: _Yellowdog Updater, Modified_ - A command-line package-management utility for computers running the Linux operating system using the RPM Package Manager.
 - **YUMI**: _Your Universal Multiboot Installer_ - A free and open-source tool for creating a multiboot USB flash drive containing multiple operating systems, antivirus utilities, disc cloning, diagnostic tools, and more.
 - **YUV**: _YCbCr or Y'CbCr_ - A family of color spaces used as a part of the color image pipeline in video and digital photography systems.
+
+[🔝](#acronyms-for-cybersecurity)
 
 ---
 
@@ -312,4 +360,4 @@ Back to [TLA](../README.md)
 
 ---
 
-Back to [top](#acronyms-for-cybersecurity)
+[🔝](#acronyms-for-cybersecurity)
