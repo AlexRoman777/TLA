@@ -358,6 +358,8 @@ Back to [TLA](../README.md)
 - **ZIF**: _Zero Insertion Force_ - A type of IC socket or electrical connector that requires very little force for insertion.
 - **ZTNA**: _Zero Trust Network Access_ - A security framework that requires every user, whether inside or outside the network perimeter, to be authenticated and authorized before being granted access to applications and data.
 
+[🔝](#acronyms-for-cybersecurity)
+
 ---
 
-[🔝](#acronyms-for-cybersecurity)
+Back to [TLA](../README.md)
