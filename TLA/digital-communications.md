@@ -4,7 +4,9 @@ Back to [TLA](../README.md)
 
 ---
 
-A list of acronyms and abbreviations commonly used in digital communications, social media, and online messaging.
+## What are Digital Communications?
+
+Digital communications refer to the exchange of information, messages, or data through digital channels such as the internet, social media, email, or messaging apps. These channels allow individuals to communicate with each other in real-time or asynchronously, enabling instant messaging, video calls, email correspondence, and social media interactions. Digital communications have become an essential part of modern life, facilitating connections between people across different locations and time zones.
 
 ---
 

@@ -4,7 +4,9 @@ Back to [TLA](../README.md)
 
 ---
 
-Acronyms and abbreviations commonly used in cybersecurity and information security environments.
+## What is Cybersecurity?
+
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These attacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes.
 
 ---
 
