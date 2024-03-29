@@ -4,7 +4,9 @@ Back to [TLA](../README.md)
 
 ---
 
-Acronyms and abbreviations commonly used in Windows Server environments.
+## What is Windows Server?
+
+Windows Server is a group of operating systems designed by Microsoft that supports enterprise-level management, data storage, applications, and communications. It provides a platform for running networked services, such as Active Directory, DNS, DHCP, file sharing, and web services, in a Windows environment.
 
 ---
 

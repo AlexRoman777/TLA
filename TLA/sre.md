@@ -4,7 +4,9 @@ Back to [TLA](../README.md)
 
 ---
 
-A list of acronyms and terms commonly used in Site Reliability Engineering (SRE) practices.
+## What is SRE?
+
+Site Reliability Engineering (SRE) is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals are to create scalable and highly reliable software systems. SRE is also a mindset, a set of principles, and a set of practices that incorporate aspects of software engineering into operations to create a balance between reliability and velocity.
 
 ---
 

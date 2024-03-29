@@ -4,7 +4,9 @@ Back to [TLA](../README.md)
 
 ---
 
-Acronyms and abbreviations commonly used in DevOps and cloud computing environments.
+## What is DevOps?
+
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the systems development life cycle and provide continuous delivery of high-quality software. It aims to improve collaboration between development and operations teams, automate processes, and use tools that help deliver applications and services at a faster pace.
 
 ---
 

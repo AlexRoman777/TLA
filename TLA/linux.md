@@ -4,7 +4,9 @@ Back to [TLA](../README.md)
 
 ---
 
-List of acronyms and abbreviations commonly used in Linux environments.
+## What is Linux?
+
+Linux is a family of open-source Unix-like operating systems based on the Linux kernel. It is widely used in servers, desktops, mobile devices, and embedded systems. Linux distributions, or distros, package the Linux kernel with additional software to create a complete operating system that can be easily installed and used by end-users.
 
 ---
 
