@@ -26,6 +26,6 @@ jobs:
         env:
           MARKDOWN_CONFIG_FILE: .markdown-lint.yml
           VALIDATE_MARKDOWN: true
-          
+
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
