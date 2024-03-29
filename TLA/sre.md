@@ -28,6 +28,8 @@ SRE is a discipline that incorporates aspects of software engineering and applie
 - **RTO**: _Recovery Time Objective_ - The targeted duration within which a system or service should be restored after a failure or disruption, as defined in a disaster recovery plan.
 - **RPO**: _Recovery Point Objective_ - The targeted maximum acceptable amount of data loss in the event of a system or service failure, as defined in a disaster recovery plan.
 
+[🔝](#sre---site-reliability-engineering)
+
 ---
 
 ## Terms
@@ -162,6 +164,9 @@ SRE is a discipline that incorporates aspects of software engineering and applie
 - **Automated Monitoring**: The use of automated tools, agents, or scripts to continuously monitor and collect data on system performance, health, and availability, enabling proactive issue detection and rapid response.
 - **SRE Collaboration**: The practice of fostering collaboration, knowledge sharing, and cross-functional teamwork among SREs, developers, operations teams, and other stakeholders to achieve common goals of reliability and operational excellence.
 
+[🔝](#sre---site-reliability-engineering)
+
 ---
 
-Back to [top](#sre---site-reliability-engineering)
+Back to [TLA](../README.md)
+
