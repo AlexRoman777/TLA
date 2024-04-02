@@ -18,6 +18,7 @@ Linux is a family of open-source Unix-like operating systems based on the Linux 
 - **APT**: _Advanced Package Tool_ - A package management system used in Debian-based Linux distributions.
 
 [🔝](#acronyms-for-linux)
+
 ---
 
 ## B
