@@ -6,14 +6,16 @@ A list of acronyms and abbreviations used in IT and related fields. Cybersecurit
 
 ## [Cybersecurity](TLA/cybersecurity.md)
 
-## [Windows Server](TLA/windows.md)
+## [DevOps](TLA/devops.md)
+
+## [Digital Communications](TLA/digital-communications.md)
+
+## [Google Cloud Provider](TLA/google-cloud-provider.md)
 
 ## [Linux](TLA/linux.md)
 
-## [DevOps](TLA/devops.md)
-
 ## [SRE](TLA/sre.md)
 
-## [Digital Communications](TLA/digital-communications.md)
+## [Windows Server](TLA/windows.md)
 
 ---
