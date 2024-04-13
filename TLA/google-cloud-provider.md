@@ -12,7 +12,6 @@ Google Cloud Provider (GCP) is a suite of cloud computing services that runs on 
 
 ## A
 
-- **AI**: _Artificial Intelligence_ - The simulation of human intelligence processes by machines, especially computer systems.
 - **API**: _Application Programming Interface_ - A set of rules and protocols that allows different software applications to communicate with each other.
 
 [🔝](#google-cloud-provider)
