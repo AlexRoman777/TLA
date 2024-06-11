@@ -146,6 +146,7 @@ Data engineering is a set of practices that involves the design, development, an
 
 - **RDD**: _Resilient Distributed Dataset_ - A fundamental data structure of Apache Spark that is fault-tolerant and allows for in-memory processing of data.
 - **RDBMS**: _Relational Database Management System_ - A type of DBMS that stores data in tables with relationships between them, and uses SQL for querying.
+- **Redshift**: _Amazon Redshift_ - A cloud-based data warehousing service provided by Amazon Web Services that allows users to analyze large volumes of data using SQL queries.
 
 [🔝](#acronyms-for-data-engineering)
 
