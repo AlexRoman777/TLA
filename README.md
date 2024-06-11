@@ -6,6 +6,8 @@ A list of acronyms and abbreviations used in IT and related fields. Cybersecurit
 
 ## [Cybersecurity](TLA/cybersecurity.md)
 
+## [Data Engineering](TLA/data-engineering.md)
+
 ## [DevOps](TLA/devops.md)
 
 ## [Digital Communications](TLA/digital-communications.md)
