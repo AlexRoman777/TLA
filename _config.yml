@@ -7,7 +7,6 @@ description: Three Letter Acronyms
 favicon: assets/images/favicon.ico
 
 jekyll_analytics:
-
   Plausible:
-    domain: 'alexroman777.github.io/tla'
-    source: 'https://plausible.io/js/script.js'
+    domain: "alexroman777.github.io/tla"
+    source: "https://plausible.io/js/script.js"
